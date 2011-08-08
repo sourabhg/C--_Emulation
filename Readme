@@ -1,8 +1,10 @@
 Project 1
 Name : Sourabh Gandhe
-BU ID : B00242648
+
 
 -----------------------------------------------------------
+
+Emulates C++ techniques using C such as Polymorphism, Inheritance, List and Dynamic Array
 
 test_correctness and test_speed both added to the source folder 
 
