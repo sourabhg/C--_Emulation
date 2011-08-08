@@ -1,0 +1,11 @@
+Project 1
+Name : Sourabh Gandhe
+BU ID : B00242648
+
+-----------------------------------------------------------
+
+test_correctness and test_speed both added to the source folder 
+
+Default makefile gives a.out for test_correctness
+
+makefile needs to be changed to run test_speed
